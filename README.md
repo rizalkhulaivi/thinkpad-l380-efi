@@ -9,7 +9,7 @@ For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 
 <details>
 <summary><strong>Hardware</strong></summary>
-</br>
+<br>
 | Category  | Component                            |
 | --------- | ------------------------------------ |
 | CPU       | Intel Core i5-8350U                  |
@@ -25,7 +25,7 @@ For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 <summary><strong>What's working</strong></summary>
 </br>
  
-- [X] Intel WiFi & Bluetooth ([AirportItlwm](https://github.com/OpenIntelWireless/itlwm))
+- [X] Intel WiFi & Bluetooth (AirportItlwm)
 - [X] Brightness / Volume Control
 - [X] Battery Information
 - [X] Audio (Audio Jack & Speaker)
