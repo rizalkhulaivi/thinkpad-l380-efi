@@ -14,7 +14,7 @@ For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 | --------- | ------------------------------------ |
 | CPU       | Intel Core i5-8350U                  |
 | GPU       | Intel UHD Graphics 620               |
-| SSD       | Intel SSDPEKKF256G8L 256GB NVMe		   |
+| SSD       | Intel SSDPEKKF256G8L 256GB NVMe		    |
 | Memory    | 16GB DDR4                            |
 | Camera    | 720p Camera                          |
 | WiFi & BT | Intel (default card from L380)       |
@@ -54,7 +54,7 @@ For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 <summary><strong>Not tested</strong></summary>
 </br>
 
-- [ ] USB-C Display
+- [ ] USB-C Display (im not sure this work, but on molko1234 tonymacx86 post, there is user success to test it)
 - [ ] Dualbooting Windows / Linux (with OpenCore)
 
 </details>
