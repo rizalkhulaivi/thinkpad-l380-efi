@@ -10,7 +10,7 @@ For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 
 | Category  | Component                            |
 | --------- | ------------------------------------ |
-| CPU       | Intel Core i5-8350U                  |
+| CPU       | Intel Core i5-8250U                  |
 | GPU       | Intel UHD Graphics 620               |
 | SSD       | Intel SSDPEKKF256G8L 256GB NVMe		    |
 | Memory    | 16GB DDR4                            |
@@ -35,13 +35,14 @@ For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 - [X] HDMI
 - [X] Automatic OS updates
 - [X] USB-C (Transfer Data)
+- [X] MicroSD card reader
 
 </details>
 <details>  
 <summary><strong>What's not working</strong></summary>
 </br>
 
-- [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
+- [ ] Safari DRM
 - [ ] AirDrop & Continuity
 - [ ] Sidecar Wireless
 - [ ] Apple Watch Unlock
