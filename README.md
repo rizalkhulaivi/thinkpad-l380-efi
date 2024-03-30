@@ -7,9 +7,7 @@ Big thanks to molko1234([tonymacx86.com](https://www.tonymacx86.com/threads/succ
 For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 </br>
 
-<details>
-<summary><strong>Hardware</strong></summary>
-<br>
+
 | Category  | Component                            |
 | --------- | ------------------------------------ |
 | CPU       | Intel Core i5-8350U                  |
@@ -19,7 +17,7 @@ For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 | Camera    | 720p Camera                          |
 | WiFi & BT | Intel (default card from L380)       |
 
-</details> 
+</br>
 
 <details>  
 <summary><strong>What's working</strong></summary>
