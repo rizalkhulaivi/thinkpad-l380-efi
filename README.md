@@ -40,7 +40,7 @@ For BIOS Settings, please read Dortania instruction (Kaby Lake Laptop).
 
 </details>
 <details>  
-<summary><strong>⚠What's not working</strong></summary>
+<summary><strong>What's not working</strong></summary>
 </br>
 
 - [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
